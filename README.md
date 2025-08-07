@@ -12,7 +12,7 @@ This project presents a comparative analysis of two transformer-based models for
 *  **ParsBERT**: A Persian-specific language model.
 *  **Multilingual BERT**: A general-purpose multilingual model.
 
-The goal is to **demonstrate the advantage of using a domain-specific model** for tasks in a specific language. I also evaluate how well each model generalizes to **out-of-domain data**.
+The goal is to **demonstrate the advantage of using a domain-specific model** for tasks in a specific language. I also evaluate how ll each model generalizes to **out-of-domain data**.
 
 📓 The full implementation is available in `Sentiment_Analysis_in_Persian.ipynb`.
 
@@ -36,7 +36,7 @@ Both models were fine-tuned on the **Snappfood dataset** 🍔, which contains:
 
 ### 3️⃣ Generalization Test 🌍
 
-To test robustness, we evaluated both models on a new, unseen dataset:
+To test robustness, both models are evaluated on a new, unseen dataset evaluated:
 
 * 📦 **Digikala product reviews**
 * **6,910 reviews**, different domain
