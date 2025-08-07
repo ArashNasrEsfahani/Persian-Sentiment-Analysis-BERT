@@ -87,8 +87,8 @@ The experiments **strongly validate the effectiveness of domain-specific languag
 ### 🌀 Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/your-username/persian-sentiment-analysis-bert.git
-cd persian-sentiment-analysis-bert
+git clone https://github.com/ArashNasrEsfahani/Persian-Sentiment-Analysis-BERT
+cd Persian-Sentiment-Analysis-BERT
 ```
 
 ### 🧱 Step 2: Set up the environment
@@ -102,6 +102,6 @@ pip install -r requirements.txt
 ### 📒 Step 3: Launch the notebook
 
 ```bash
-jupyter lab Sentiment_Analysis.ipynb
+jupyter lab Sentiment_Analysis_in_Persian.ipynb
 ```
 
