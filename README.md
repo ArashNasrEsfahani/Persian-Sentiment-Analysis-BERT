@@ -55,8 +55,6 @@ ParsBERT outperformed the multilingual BERT across all metrics.
 | **ParsBERT** | **86.01%** | **86.00%**  | **0.97** |
 | BERT         | 82.36%     | 82.28%      | 0.90     |
 
-📉 ROC Curve:
-![ROC Curve on Snappfood](images/snappfood_roc.png)
 
 ---
 
@@ -69,8 +67,6 @@ The gap widened in the generalization test. ParsBERT’s Persian-specific knowle
 | **ParsBERT** | **93.13%** | **93.11%**  | **0.976** |
 | BERT         | 80.59%     | 81.22%      | 0.905     |
 
-📉 ROC Curve:
-![ROC Curve on Digikala](images/digikala_roc.png)
 
 ---
 
